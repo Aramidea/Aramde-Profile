@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aramidea
 - 👀 I’m interested in Quality Assurance roles, I do both manual and automation testing 
 - 💞️ I’m looking forward to working with great minds 
-- 📫 Reach me via aramideadedejij@gmail.com 
 
 <!---
 Aramidea/Aramidea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
